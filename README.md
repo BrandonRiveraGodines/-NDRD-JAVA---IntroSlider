@@ -1,6 +1,8 @@
 # [NDRD][JAVA] - IntroSlider
 
-## Español
+## [NDRD] = Android , [JAVA] = Java
+
+### Español
 
 Éste es una pequeña aplicación a modo de ejemplo realizada para Android de un Slider de introducción
 (__La típica introducción realizada en ambientes profesionales__), es realizada con Java como lenguaje de desarrollo, (__que no se preocupen, que también habrá una versión con Kotlin__)
@@ -14,7 +16,7 @@ Cosas a considerar:
 * Está ideado y pensado para tener __cuatro__ recomendaciones (__cuatro slides__ de manera similar), no es tán dificil hacerlo menos o para más slides, con un poco de pensar la situación se logrará.
 * El resultado final es simplemente una pantalla en blanco, pero es facilmente utilizable y aplicable a tus propios proyectos.
 
-## English
+### English
 This is a small application by way of example made for Android of an introduction Slider
 (__The typical introduction made in professional environments__), is done with Java as a development language, (__ do not worry, that there will also be a version with Kotlin__)
 
