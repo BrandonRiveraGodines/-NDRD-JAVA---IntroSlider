@@ -7,4 +7,6 @@
 * API de android 22 (__Lollipop__)
 * Java
 
-Hay diversas cosas a considerar:
+Cosas a considerar:
+* Está ideado y pensado para tener __cuatro__ recomendaciones (__cuatro slides__ de manera similar), no es tán dificil hacer esto, con un poco de quemarte la cabeza.
+* El resultado final es simplemente una pantalla en blanco, pero es facilmente utilizable y aplicable a tus propios proyectos.
