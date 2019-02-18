@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">SALTAR</string>
+    <string name="start">ENTENDIDO</string>
+
+    <string name="slide_1_title">Excelente ejemplo</string>
+    <string name="slide_1_desc">De cómo crear una Intro Slider</string>
+
+    <string name="slide_2_title">Te permite muchas cosas</string>
+    <string name="slide_2_desc">Entre ellas poner imagenes, un título y un texto.</string>
+
+    <string name="slide_3_title">Imagina</string>
+    <string name="slide_3_desc">Puedes imaginar diversos uso</string>
+
+    <string name="slide_4_title">Hecha por Brandon RG</string>
+    <string name="slide_4_desc">Visita mi perfil de GitHub: BrandonRiveraGodines</string>
+
+    <string name="play_again_desc">Para ver nuevamente el slider, ve a Ajustes y elimina la cache</string>
+    <string name="play_again">Intentalo de nuevo</string>
+</resources>
