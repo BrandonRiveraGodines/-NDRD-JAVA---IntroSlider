@@ -4,7 +4,7 @@
 
 ##### Desarrollado bajo las siguientes normas:
 * Android 3.3.1
-* API de android 22 (__Lollipop__)
+* API de android 22 (__Lollipop__) (__Es recomendable utilizar la API 22 como la API mínima, dejemos de crear proyectos para Froyo y así__)
 * Java
 
 Cosas a considerar:
